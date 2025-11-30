@@ -1,0 +1,2 @@
+SubscriptionId,ResourceGroup,VMName,OldVault,OldVaultRG
+c5ea61f3-1975-4b59-9e9c-66128b8989f3,sdc3-07321-prod-rg,srsdc307321w003,sdc3-prod-intranet-rsv,sdc3-07592-prod-rg
